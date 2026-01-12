@@ -1,0 +1,18 @@
+<workout_file>
+  <author>ChatGPT</author>
+  <name>Over-Under Intervals</name>
+  <description>
+    2 sets of 4x2min @105% FTP and 4x1min @95% FTP.
+    5 minutes recovery between sets.
+  </description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags/>
+  <workout>
+    <Warmup Duration="480" PowerLow="0.55" PowerHigh="0.85" pace="0"/>
+    <IntervalsT Repeat="4" OnDuration="120" OffDuration="60" OnPower="1.05" OffPower="0.95" pace="0"/>
+    <SteadyState Duration="300" Power="0.5" pace="0"/>
+    <IntervalsT Repeat="4" OnDuration="120" OffDuration="60" OnPower="1.05" OffPower="0.95" pace="0"/>
+    <Cooldown Duration="480" PowerLow="0.6" PowerHigh="0.4" pace="0"/>
+  </workout>
+</workout_file>

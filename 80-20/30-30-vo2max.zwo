@@ -1,0 +1,17 @@
+<workout_file>
+  <author>Statistics for Strava</author>
+  <name>30/30 VO2 Max</name>
+  <description>Classic 30/30 VO2 max workout. Short, punchy efforts.</description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags/>
+  <workout>
+    <Warmup Duration="600" PowerLow="0.6" PowerHigh="0.8" pace="0"/>
+    <IntervalsT Repeat="10" OnDuration="30" OffDuration="30" OnPower="1.2" OffPower="0.6" pace="0"/>
+    <SteadyState Duration="360" Power="0.6" pace="0"/>
+    <IntervalsT Repeat="10" OnDuration="30" OffDuration="30" OnPower="1.2" OffPower="0.6" pace="0"/>
+    <SteadyState Duration="360" Power="0.6" pace="0"/>
+    <IntervalsT Repeat="10" OnDuration="30" OffDuration="30" OnPower="1.2" OffPower="0.6" pace="0"/>
+    <SteadyState Duration="600" Power="0.6" pace="0"/>
+  </workout>
+</workout_file>
