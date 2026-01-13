@@ -16,7 +16,7 @@ The plan works well for riders training **4 or 5 days per week**, where the **Zo
 
 ## Included Workouts
 
-### 1. Down Under Threshold
+### 1. Down Under Threshold (45min)
 **Purpose:** Build sustainable power just below FTP  
 **Intensity:** High Zone 3 / Low Zone 4 (90–120% FTP)
 
@@ -29,7 +29,7 @@ Best done when relatively fresh.
 
 ---
 
-### 2. 30/30 VO₂max
+### 2. 30/30 VO₂max (1h)
 **Purpose:** Improve aerobic ceiling and repeatability  
 **Intensity:** Very high (120–130% FTP during work intervals)
 
@@ -42,7 +42,7 @@ This is the hardest workout of the week, treat it with respect.
 
 ---
 
-### 3. Long Zone 2 Ride
+### 3. Long Zone 2 Ride (1h30)
 **Purpose:** Aerobic base & endurance  
 **Intensity:** Zone 2 (60–70% FTP)
 
