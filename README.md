@@ -16,7 +16,7 @@ The plan works well for riders training **4 or 5 days per week**, where the **Zo
 
 ## Included Workouts
 
-### 1. Down Under Threshold (45min)
+### 1. Down Under Threshold (50min)
 **Purpose:** Build sustainable power just below FTP  
 **Intensity:** High Zone 3 / Low Zone 4 (90–120% FTP)
 
