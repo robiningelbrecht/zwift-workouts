@@ -16,3 +16,45 @@
     <Cooldown Duration="480" PowerLow="0.6" PowerHigh="0.4" pace="0"/>
   </workout>
 </workout_file>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<workout_file>
+    <author>ChatGPT</author>
+    <name>Over Unders (1m/1m)</name>
+    <description>
+Classic over-unders to build lactate clearance and threshold durability.
+2 sets of 6x (1 min over / 1 min under).
+    </description>
+    <sportType>bike</sportType>
+
+    <workout>
+
+        <!-- Warmup -->
+        <Warmup Duration="600" PowerLow="0.60" PowerHigh="0.85"/>
+
+        <!-- Set 1 -->
+        <IntervalsT
+            Repeat="6"
+            OnDuration="60"
+            OffDuration="60"
+            OnPower="1.10"
+            OffPower="0.88"
+            pace="0"/>
+
+        <!-- Recovery between sets -->
+        <SteadyState Duration="350" Power="0.5"/>
+
+        <!-- Set 2 -->
+        <IntervalsT
+            Repeat="6"
+            OnDuration="60"
+            OffDuration="60"
+            OnPower="1.10"
+            OffPower="0.88"
+            pace="0"/>
+
+        <!-- Cooldown -->
+        <Cooldown Duration="600" Power="0.6"/>
+
+    </workout>
+</workout_file>
