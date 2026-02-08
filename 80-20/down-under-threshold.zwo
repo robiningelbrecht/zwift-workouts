@@ -22,7 +22,7 @@ Classic over-unders to build lactate clearance and threshold durability.
             pace="0"/>
 
         <!-- Recovery between sets -->
-        <SteadyState Duration="350" Power="0.5"/>
+        <SteadyState Duration="360" Power="0.5"/>
 
         <!-- Set 2 -->
         <IntervalsT
