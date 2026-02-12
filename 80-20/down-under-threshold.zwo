@@ -11,7 +11,7 @@ Classic over-unders to build lactate clearance and threshold durability.
 
         <!-- Warmup -->
         <Warmup Duration="600" PowerLow="0.60" PowerHigh="0.85"/>
-        <Warmup Duration="90" PowerLow="0.50" PowerHigh="0.85"/>
+        <SteadyState Duration="90" Power="0.50"/>
 
         <!-- Set 1 -->
         <IntervalsT
@@ -35,6 +35,6 @@ Classic over-unders to build lactate clearance and threshold durability.
             pace="0"/>
 
         <!-- Cooldown -->
-        <Cooldown Duration="600" Power="0.6"/>
+        <SteadyState Duration="600" Power="0.6"/>
     </workout>
 </workout_file>
