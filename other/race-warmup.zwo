@@ -1,0 +1,47 @@
+<workout_file>
+  <author>Robin Ingelbrecht</author>
+  <name>Race Warmup</name>
+  <description>Progressive race warmup with openers</description>
+  <sportType>bike</sportType>
+  <tags/>
+  <workout>
+
+    <!-- 2min ramp 35% → 55% -->
+    <Warmup Duration="120" PowerLow="0.35" PowerHigh="0.55"/>
+
+    <!-- 1min @ 60% -->
+    <SteadyState Duration="60" Power="0.60"/>
+
+    <!-- 1min @ 65% -->
+    <SteadyState Duration="60" Power="0.65"/>
+
+    <!-- 1min @ 70% -->
+    <SteadyState Duration="60" Power="0.70"/>
+
+    <!-- 1min @ 75% -->
+    <SteadyState Duration="60" Power="0.75"/>
+
+    <!-- 1min @ 80% -->
+    <SteadyState Duration="60" Power="0.80"/>
+
+    <!-- 1min @ 85% -->
+    <SteadyState Duration="60" Power="0.85"/>
+
+    <!-- 1min @ 90% -->
+    <SteadyState Duration="60" Power="0.90"/>
+
+    <!-- 2min @ 100% -->
+    <SteadyState Duration="120" Power="1.00"/>
+
+    <!-- 2min @ 60% -->
+    <SteadyState Duration="120" Power="0.60"/>
+
+    <!-- 4x (8sec @ 140%, 1min42sec @ 55%) -->
+    <IntervalsT Repeat="4"
+                OnDuration="8"
+                OffDuration="102"
+                OnPower="1.40"
+                OffPower="0.55"/>
+
+  </workout>
+</workout_file>
