@@ -18,7 +18,7 @@ The plan works well for riders training **4 or 5 days per week**, where the **Zo
 
 ### 1. Over Under Threshold (50min)
 **Purpose:** Build sustainable power just below FTP  
-**Intensity:** High Zone 3 / Low Zone 4 (90–120% FTP)
+**Intensity:** High Zone 3 / Low Zone 4 (85–105% FTP)
 
 This workout targets the “comfortably hard” range. It improves:
 - Lactate clearance
