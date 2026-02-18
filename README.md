@@ -1,4 +1,4 @@
-# Zwift Training Mini-Program (4–5 days/week)
+# Zwift Training Program (4–5 days/week)
 
 <p align="center">
     <img src="banner.png" 
